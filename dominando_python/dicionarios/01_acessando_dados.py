@@ -1,7 +1,7 @@
-dados = {"nome": "Guilherme", "idade": 28, "telefone": "3333-1234"}
+dados = {"nome": "Thiago", "idade": 37, "telefone": "3333-1234"}
 
-print(dados["nome"])  # "Guilherme"
-print(dados["idade"])  # 28
+print(dados["nome"])  # "Thiago"
+print(dados["idade"])  # 37
 print(dados["telefone"])  # "3333-1234"
 
 dados["nome"] = "Maria"
