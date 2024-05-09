@@ -18,16 +18,16 @@ Repensados para o século XXI, esses jardins lendários transcendem sua fama his
     <li><b>Degustar pratos deliciosos</b> preparados com ingredientes frescos cultivados nos próprios jardins.
 </ul>
 
-<b>Os Jardins Suspensos da Babilônia são a escapada perfeita para quem busca:</b>
+<b>Os Jardins Suspensos da Babilônia são a escapada perfeita para quem busca:
 
 <ul>
     <li>Uma experiência única e inesquecível.
     <li>Um refúgio tranquilo em meio à agitação da cidade.
     <li>Uma oportunidade de aprender sobre sustentabilidade e tecnologias verdes.
-    <li>Um momento de conexão com a natureza e consigo mesmo.
+    <li>Um momento de conexão com a natureza e consigo mesmo.</b>
 </ul>
 
-<b>Então, o que você está esperando?</b> Reserve suas férias hoje mesmo e venha descobrir os Jardins Suspensos da Babilônia, uma maravilha moderna que te espera de braços abertos!
+Então, o que você está esperando?</b> Reserve suas férias hoje mesmo e venha descobrir os Jardins Suspensos da Babilônia, uma maravilha moderna que te espera de braços abertos!
 
 
 <b>#JardinsSuspensos #Babilônia #Viagem #Turismo #Férias #Natureza #Sustentabilidade #Inovação #Aprenda #Explore #Deguste #ConecteSe</b>
